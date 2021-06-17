@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "254212840847",
+    "project_id": "androidrestanta",
+    "storage_bucket": "androidrestanta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254212840847:android:4eec77382f2e19be7ebffa",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254212840847-bl8qsooc8fgu6apjai656pla5t793eu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-9FcXCQ0pvnQM3LLsyjwJgIepoO-8PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254212840847-bl8qsooc8fgu6apjai656pla5t793eu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254212840847:android:b483253fedab46a07ebffa",
+        "android_client_info": {
+          "package_name": "com.example.restantaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254212840847-bl8qsooc8fgu6apjai656pla5t793eu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-9FcXCQ0pvnQM3LLsyjwJgIepoO-8PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254212840847-bl8qsooc8fgu6apjai656pla5t793eu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

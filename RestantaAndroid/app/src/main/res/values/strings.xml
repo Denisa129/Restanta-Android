@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RestantaAndroid</string>
+
+    <string-array name="animals">
+        <item>Caine</item>
+        <item>Pisica</item>
+        <item>Elefant</item>
+        <item>Broasca</item>
+        <item>Soarece</item>
+        <item>Girafa</item>
+        <item>Leu</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Ceva detalii</item>
+        <item>Ceva detalii</item>
+        <item>Ceva detalii</item>
+        <item>Ceva detalii</item>
+        <item>Ceva detalii</item>
+        <item>Ceva detalii</item>
+        <item>Ceva detalii</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
